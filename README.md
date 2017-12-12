@@ -1,2 +1,0 @@
-# bblog
-a study
